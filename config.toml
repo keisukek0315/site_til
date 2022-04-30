@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://keitil.netlify.app/'
 languageCode = 'en-us'
 title = 'TIL'
 theme = 'PaperMod'

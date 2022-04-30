@@ -1,7 +1,7 @@
 ---
 title: "get something off one's chest"
 date: 2022-04-27T19:40:27+09:00
-draft: True
+draft: false
 ---
 
 ### get something off one's chest
